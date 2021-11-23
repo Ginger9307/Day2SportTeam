@@ -1,0 +1,38 @@
+body {
+    /* color: #C8102E; */
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    font-size: 16px;
+}
+
+section {
+    padding: 5px 15px 5px 15px;
+    text-align:justify;
+}
+
+.badge {
+    height: 200px;
+}
+
+#history {
+    background-color: #C8102E;
+    color: #ffffff;
+}
+
+#players {
+    background-color: #C8102E;
+    color: #ffffff;
+}
+
+H1 {
+    color: #C8102E;
+    font-size: 30px;
+}
+
+#colours H2, #facts H2{
+    color: #C8102E;
+}
+
+.list {
+    line-height: 30px;
+}
